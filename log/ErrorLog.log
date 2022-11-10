@@ -1,0 +1,56 @@
+18-Oct-2022 21:00:05 INFO - Starting WomenEmpowermentApplication using Java 17.0.4.1 on samarth with PID 5454 (/home/samarth/Desktop/project/Sprint1/WomenEmpowerment/target/classes started by samarth in /home/samarth/Desktop/project/Sprint1/WomenEmpowerment)
+18-Oct-2022 21:00:05 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:00:05 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:00:13 INFO - Started WomenEmpowermentApplication in 8.555 seconds (JVM running for 9.392)
+18-Oct-2022 21:02:35 INFO - Scheme data added successfully
+18-Oct-2022 21:03:36 INFO - Scheme data updated successfully
+18-Oct-2022 21:04:38 INFO - Scheme data updated successfully
+18-Oct-2022 21:06:05 INFO - Scheme data updated successfully
+18-Oct-2022 21:06:58 INFO - null
+18-Oct-2022 21:07:14 INFO - Scheme data deleted successfully
+18-Oct-2022 21:07:33 INFO - Scheme data found for given Scheme Id
+18-Oct-2022 21:11:00 INFO - Starting WomenEmpowermentApplication using Java 17.0.4.1 on samarth with PID 7517 (/home/samarth/Desktop/project/Sprint1/WomenEmpowerment/target/classes started by samarth in /home/samarth/Desktop/project/Sprint1/WomenEmpowerment)
+18-Oct-2022 21:11:00 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:11:00 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:11:10 INFO - Started WomenEmpowermentApplication in 11.01 seconds (JVM running for 12.016)
+18-Oct-2022 21:13:09 INFO - Scheme found for given date
+18-Oct-2022 21:17:16 INFO - Starting WomenEmpowermentApplication using Java 17.0.4.1 on samarth with PID 8304 (/home/samarth/Desktop/project/Sprint1/WomenEmpowerment/target/classes started by samarth in /home/samarth/Desktop/project/Sprint1/WomenEmpowerment)
+18-Oct-2022 21:17:16 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:17:16 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:17:24 INFO - Started WomenEmpowermentApplication in 8.046 seconds (JVM running for 8.948)
+18-Oct-2022 21:18:10 INFO - Scheme found for given date
+18-Oct-2022 21:20:44 INFO - Starting WomenEmpowermentApplication using Java 17.0.4.1 on samarth with PID 8609 (/home/samarth/Desktop/project/Sprint1/WomenEmpowerment/target/classes started by samarth in /home/samarth/Desktop/project/Sprint1/WomenEmpowerment)
+18-Oct-2022 21:20:44 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:20:44 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:20:53 INFO - Started WomenEmpowermentApplication in 9.255 seconds (JVM running for 10.18)
+18-Oct-2022 21:26:42 INFO - Starting WomenEmpowermentApplication using Java 17.0.4.1 on samarth with PID 9491 (/home/samarth/Desktop/project/Sprint1/WomenEmpowerment/target/classes started by samarth in /home/samarth/Desktop/project/Sprint1/WomenEmpowerment)
+18-Oct-2022 21:26:42 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:26:42 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:26:49 INFO - Started WomenEmpowermentApplication in 8.126 seconds (JVM running for 9.048)
+18-Oct-2022 21:29:37 INFO - Starting WomenEmpowermentApplication using Java 17.0.4.1 on samarth with PID 9803 (/home/samarth/Desktop/project/Sprint1/WomenEmpowerment/target/classes started by samarth in /home/samarth/Desktop/project/Sprint1/WomenEmpowerment)
+18-Oct-2022 21:29:37 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:29:37 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:29:44 INFO - Started WomenEmpowermentApplication in 7.084 seconds (JVM running for 8.103)
+18-Oct-2022 21:34:33 INFO - Starting WomenEmpowermentApplication using Java 17.0.4.1 on samarth with PID 10383 (/home/samarth/Desktop/project/Sprint1/WomenEmpowerment/target/classes started by samarth in /home/samarth/Desktop/project/Sprint1/WomenEmpowerment)
+18-Oct-2022 21:34:33 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:34:33 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:34:41 INFO - Started WomenEmpowermentApplication in 8.114 seconds (JVM running for 9.096)
+18-Oct-2022 21:36:40 INFO - Scheme found for given date
+18-Oct-2022 21:40:51 INFO - Schemes data found
+18-Oct-2022 21:42:16 INFO - Scheme data added successfully
+18-Oct-2022 21:42:43 INFO - Scheme found for given date
+18-Oct-2022 21:42:58 INFO - null
+18-Oct-2022 21:43:07 INFO - Scheme data deleted successfully
+18-Oct-2022 21:43:17 ERROR - com.womenEmp.exception.WomenEmpException: Service.SCHEME_NOT_PRESENT
+18-Oct-2022 21:43:27 INFO - Scheme data found for given Scheme Id
+18-Oct-2022 21:44:28 INFO - Starting WomenEmpowermentApplication using Java 17.0.4.1 on samarth with PID 11200 (/home/samarth/Desktop/project/Sprint1/WomenEmpowerment/target/classes started by samarth in /home/samarth/Desktop/project/Sprint1/WomenEmpowerment)
+18-Oct-2022 21:44:28 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:44:28 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:44:35 INFO - Started WomenEmpowermentApplication in 7.937 seconds (JVM running for 9.125)
+18-Oct-2022 21:45:00 INFO - Scheme data found for given Scheme Id
+18-Oct-2022 21:45:06 ERROR - com.womenEmp.exception.WomenEmpException: Service.SCHEME_NOT_PRESENT
+19-Oct-2022 11:38:12 INFO - Starting WomenEmpowermentApplication using Java 17.0.4.1 on samarth with PID 25603 (/home/samarth/Desktop/project/Sprint1/WomenEmpowerment/target/classes started by samarth in /home/samarth/Desktop/project/Sprint1/WomenEmpowerment)
+19-Oct-2022 11:38:12 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 11:38:12 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 11:38:32 INFO - Started WomenEmpowermentApplication in 21.048 seconds (JVM running for 25.693)
+19-Oct-2022 11:41:21 INFO - Schemes data found
